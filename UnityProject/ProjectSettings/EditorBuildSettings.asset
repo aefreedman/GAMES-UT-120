@@ -6,12 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/Examples/Pong/Pong.unity
+    path: Assets/Examples/DIYPhysics/DIYPhysics.unity
     guid: 2cda990e2423bbf4892e6590ba056729
-  - enabled: 1
+  - enabled: 0
     path: Assets/Examples/SceneTutorial/SceneTutorialLoader.unity
     guid: 2288217c028faa240a818b0b11a9ac13
-  - enabled: 1
+  - enabled: 0
     path: Assets/Examples/SceneTutorial/SceneTutorialSecondScene.unity
     guid: 7e4314f16b059084e949e5a937d1cbe0
+  - enabled: 1
+    path: Assets/Examples/DataLogging/DataLogging.unity
+    guid: 64e1061e6f21e46ec9497c337e43583e
   m_configObjects: {}
