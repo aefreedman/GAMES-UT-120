@@ -1,0 +1,17 @@
+{
+    "Line": [
+        "I have some things to say to you!",
+        "Oh really?!",
+        "Well isn't that nice"
+        ],
+    "ResponseA": [
+        "O rly",
+        "Well, let's hear it, then.",
+        "Ok whatever."
+        ],
+    "ResponseB": [
+        "Yeah, I bet.",
+        "Yeah, really.",
+        "Seeya."
+    ]
+}
