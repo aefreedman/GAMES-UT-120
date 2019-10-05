@@ -8318,10 +8318,10 @@ MonoBehaviour:
   m_margin: {x: 20, y: 20, z: 20, w: 20}
   m_textInfo:
     textComponent: {fileID: 2072640621}
-    characterCount: 417
+    characterCount: 556
     spriteCount: 0
-    spaceCount: 58
-    wordCount: 59
+    spaceCount: 82
+    wordCount: 82
     linkCount: 0
     lineCount: 8
     pageCount: 1
